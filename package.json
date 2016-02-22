@@ -1,0 +1,27 @@
+{
+  "name": "next-train",
+  "version": "0.0.0",
+  "description": "Next train to home info (Barcelona FGC)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bernhelm/next-train-fgc.git"
+  },
+  "keywords": [
+    "train",
+    "schedule",
+    "node"
+  ],
+  "author": "Alberto García",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bernhelm/next-train-fgc/issues"
+  },
+  "homepage": "https://github.com/Bernhelm/next-train-fgc#readme",
+  "dependencies": {
+    "xhr": "^2.2.0"
+  }
+}
